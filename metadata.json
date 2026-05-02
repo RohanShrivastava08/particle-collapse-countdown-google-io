@@ -1,0 +1,6 @@
+{
+  "name": "Particle Collapse Countdown",
+  "description": "A cinematic countdown from 10 to 1 where each number is formed by glowing particles that explode and smoothly reform using physics-based motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
