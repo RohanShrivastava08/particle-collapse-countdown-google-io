@@ -75,7 +75,15 @@ npm run dev
 
 ## 📸 Preview
 
-> Add a short GIF or screen recording here (highly recommended for better visibility)
+<img width="1470" height="830" alt="Image" src="https://github.com/user-attachments/assets/0918a9b0-7d74-422b-bd4c-c4f52d84ff3c" />
+
+<img width="1470" height="839" alt="Image" src="https://github.com/user-attachments/assets/b2df74d9-7313-42ad-a23c-ca35b15c9b18" />
+
+<img width="1465" height="834" alt="Image" src="https://github.com/user-attachments/assets/1ab93ae1-e9d7-4fb2-b4fd-a5bd6ce326df" />
+
+<img width="1470" height="827" alt="Image" src="https://github.com/user-attachments/assets/db9f41c2-bdbe-4504-8a84-6f0b476e4fbf" />
+
+<img width="1470" height="833" alt="Image" src="https://github.com/user-attachments/assets/ad6c5668-fafd-4649-a772-3a36859288aa" />
 
 ---
 
