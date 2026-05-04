@@ -1,8 +1,8 @@
+<h1 align="center">🚀 Particle Collapse: A Cinematic Countdown</h1>
+
 <div align="center">
   <img width="1200" height="475" alt="Particle Collapse Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
-
-<h1 align="center">🚀 Particle Collapse: A Cinematic Countdown</h1>
 
 <p align="center">
 A high-fidelity particle countdown where numbers form, explode, and reform using real-time physics-inspired motion.
